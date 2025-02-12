@@ -1,2 +1,2 @@
 # lab-experimentacao-software
-Repositório utilizado na disciplina de LABORATÓRIO DE EXPERIMENTAÇÃO DE SOFTWARE
+Repositório utilizado na disciplina de Laboratório de Experimentação de Software
