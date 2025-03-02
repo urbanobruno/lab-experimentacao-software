@@ -40,3 +40,15 @@ Com relação às métricas nossas hipóteses são:
  - Tempo até a última atualização: Esperamos encontrar algo entre 1 semana a 1 mês;
  - Linguagem primária de cada repositório: Esperamos encontrar linguagens mais consolidadas e robustas no mercado;
  - Razão entre número de issues fechadas pelo total de issues: acreditamos encontrar uma razão entre 60% a 80% de issues fechadas.
+
+## Metodologia Utilizada
+
+Para responder às perguntas, realizamos uma coleta de dados através de um algoritmo desenvolvido através da linguagem Python utilizando a API do GitHub para obter os dados dos repositórios. Após a coleta de dados, armazenamos os resultados em um arquivo CSV. A partir desse armazenamento realizamos a nossa análise, chegando às nossas conclusões.
+
+## Resultados Obtidos
+
+- Pergunta 1 - A idade média dos repositórios Open-source mais populares foi de 8.3 anos. Logo  podemos dizer que os sistemas Open-source mais populares são mais maduros/antigos.
+- Pergunta 2 - A quantidade de pull requests (mediana) foi de 620. Não podemos concluir muita coisa pela quantidade de pull requests, mas é um forte indicador de que existe uma boa atenção externa para esses repositórios.
+- Pergunta 3 - A quantidade de releases foi de 33 (mediana). Podemos concluir que os sistemas Open-source mais populares recebem uma grande quantidade de releases.
+- Pergunta 4 - A frequência de atualizações da maioria dos sistemas Open-source mais populares foi de 6 dias (mediana). Logo, as atualizações são muito frequentes.
+- Pergunta 5 - Sistemas Open-source populares possuem uma taxa de 86% de issues fechadas (mediana).
