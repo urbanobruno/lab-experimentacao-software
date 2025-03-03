@@ -70,6 +70,6 @@ Nosso estudo busca responder as seguintes questões:
 
 ## Resultados e Discussão
 
-As hipóteses formuladas pelo grupo e resultados obtidos estão apresentados no relatório final presente no arquivo **relatorio.md**, onde estão presentes comparações das nossas expectativas iniciais com os valores coletados, buscando responder as questões de pesquisa propostas.
+As hipóteses formuladas pelo grupo e resultados obtidos estão apresentados no relatório final presente no arquivo **"relatorio.md"**, onde estão presentes comparações das nossas expectativas iniciais com os valores coletados, buscando responder as questões de pesquisa propostas.
 
 
