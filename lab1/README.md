@@ -34,7 +34,6 @@ Nosso estudo busca responder as seguintes questões:
    Métrica: Razão entre número de issues fechadas e total de issues.
 
 7. Sistemas escritos em linguagens mais populares recebem mais contribuição externa, lançam mais releases e são atualizados com mais frequência?
-   Métrica: Comparar valores entre diferentes linguagens.
 
 ## Metodologia
 1. Coleta de Dados
@@ -71,4 +70,6 @@ Nosso estudo busca responder as seguintes questões:
 
 ## Resultados e Discussão
 
-As hipóteses formuladas pelo grupo e resultados obtidos serão apresentados no relatório final, onde estarão presentes comparações das nossas expectativas iniciais com os valores coletados, buscando responder as questões de pesquisa propostas.
+As hipóteses formuladas pelo grupo e resultados obtidos estão apresentados no relatório final presente no arquivo **relatorio.md**, onde estão presentes comparações das nossas expectativas iniciais com os valores coletados, buscando responder as questões de pesquisa propostas.
+
+
