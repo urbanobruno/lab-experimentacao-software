@@ -40,11 +40,11 @@ Nosso estudo busca responder às seguintes questões:
 ### Extração de Métricas
 
 Para cada Pull Request coletada, extraímos:
-- Tempo de Análise: Horas entre a criação e o fechamento/merge da PR.
-- Tamanho: Número de arquivos modificados, adições e remoções de linhas de código.
-- Descrição: Número de caracteres no corpo (body) da PR.
-- Interações: Número de participantes únicos, comentários gerais e comentários de revisão.
-- Outras Informações: Estado final da PR (merged ou closed), autor da PR e tamanho do título.
+- **Tempo de Análise**: Horas entre a criação e o fechamento/merge da PR.
+- **Tamanho**: Número de arquivos modificados, adições e remoções de linhas de código.
+- **Descrição**: Número de caracteres no corpo (body) da PR.
+- **Interações**: Número de participantes únicos, comentários gerais e comentários de revisão.
+- **Outras Informações**: Estado final da PR (merged ou closed), autor da PR e tamanho do título.
 
 ### Tratamento e Visualização dos Dados
 
